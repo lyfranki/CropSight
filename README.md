@@ -18,7 +18,7 @@ Collecting accurate ground truth data of crop types is a crucial challenge for a
 </p>
 
 ## Dataset 
-- ### UncertainFusionNet  
+- ### UncertainFusionNet (Example: [IL training dataset](https://huggingface.co/lyfranki/CropSight/resolve/main/IL_GSV_corn%26soybean.zip))
 <p align="center">
 <img src="src/CropGSV dataset.png" width="700" >
 <br>
